@@ -146,8 +146,4 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+Samridhi Bhardwaj
